@@ -1,2 +1,2 @@
-name:
-num:
+name:ramanan 
+num:12345
